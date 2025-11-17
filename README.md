@@ -1,4 +1,4 @@
-# Deep Learning Research Replication: Survival Analysis
+# Deep Learning Research Reproduction: Survival Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.10.19-blue?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.5.1-EE4C2C?logo=pytorch&logoColor=white)
