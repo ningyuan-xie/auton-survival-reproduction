@@ -83,8 +83,8 @@ tqdm==4.66.5
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/ningyuan-xie/ningyuan-xie-cs598-dlh-project.git
-   cd ningyuan-xie-cs598-dlh-project
+   git clone https://github.com/ningyuan-xie/auton-survival-reproduction.git
+   cd auton-survival-reproduction
    ```
 
 2. **Create and activate conda environment:**
